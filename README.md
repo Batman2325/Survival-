@@ -1,0 +1,1 @@
+A fast, glowing, touchscreen survival arena. Drag your finger to control a glowing ball, dodge falling spikes, saws, mines, and lasers, and grab power-ups before everything kills you. Climb 16 ranked tiers, unlock 12 ball skins and 9 hats, and race a bot in 1v1 mode. Free, offline-ready, no ads.
